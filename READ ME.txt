@@ -1,0 +1,36 @@
+-----------------
+ASSIGNMETN 2 - MAZE GAME
+Phan Nhan Ho - A01034458
+Gia Khai Ngo - A01041851
+-----------------
+MAZE
+	- The starting point is marked by an orange object.
+	- The ending point is maeked by an blue object.
+	- There is an enemy that walks around the maze.
+RULE
+	- Players ONLY HAVE a point if they throw the ball into the enemy.
+	- If they throw the ball 
+CONTROL
+	
+	+ FOR PC
+	
+	- Player uses W/S/A/D to move Forward/Backward/Left/Right.
+	- Player uses mouse to rotate Right/ Left and look Up/Down.
+	- Press E to enable/disable Throught-wall Mode.
+	- Press HOME to back to starting point and reset view).
+	- Press Y to change Day/Night Mode.
+	- Press M to enable/disable Fog Effect.
+
+	+ FOR PS4
+	
+	- Player uses Leftstick to move Forward/Backward/Left/Right
+	- Player uses Rightstick to rotate Right/ Left and look Up/Down
+
+	- Press X to enable/disable Throught-wall Mode.
+	- Press [] (Square) to back to starting point and reset view).
+	- Press /\ (Triangle) to change Day/Night Mode.
+	- Press O (Circle) to enable/disable Fog Effect.
+
+Sources for Fog Effect
+
+http://willychyr.com/2013/11/unity-shaders-depth-and-normal-textures/
